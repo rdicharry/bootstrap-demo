@@ -4,7 +4,9 @@
 		<?php require_once("lib/head-utils.php"); ?>
 	</head>
 
-	<body>
+	<body class="sfooter">
+
+		<div class="sfooter-content">
 		<!-- begin header -->
 		<header>
 			<nav class="navbar navbar-default">
@@ -47,22 +49,53 @@
 		</header>
 
 		<!-- main content section -->
+
 		<main>
+
 			<div class="container-fluid">
 				<div class="row">
 					<div class="col-xs-12">
 						<div class="jumbotron">
 							<h1>Welcome! :D</h1>
 							<p>
-								ase the red dot, hairball run catnip eat the grass sniff for walk on car leaving trail of paw prints on hood and windshield. Claws in your leg eat grass, throw it back up and caticus cuteicus under t
+								 hairball run catnip eat the grass sniff for walk on car leaving trail of paw prints on hood and windshield. Claws in your leg eat grass, throw it back up
 							</p>
 						</div>
 					</div>
 				</div>
-				<div class="row"></div>
-			</div>
+
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="box" > <!-- "box" is not from bootstrap - for our own css styling -->
+						Fall asleep on the washing machine fall asleep on the washing machine but meow loudly just to annoy owners soft kitty warm kitty little ball of furr, and need to chase tail, throwup on your pillow mew. Step on your keyboard while you're gaming and then turn in a circle step on your keyboard while you're gaming and then turn in a circle sl
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="box"> <!-- "box" is not from bootstrap - for our own css styling -->
+						Lick arm hair sleep in the bathroom sink when in doubt, wash, stare at wall turn and meow stare at wall some more meow again continue staring , stares at human while pushing stuff off a table. Jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed curl into a furry donut lick plastic bags drink water out of the faucet sit in window and stare ooo, a
+							</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="box"> <!-- "box" is not from bootstrap - for our own css styling -->
+						I'm getting hungry eat from dog's food but loves cheeseburgers for human give me attention meow. Jump launch to pounce upon little yarn mouse, bare fangs at toy run hide in litter box until treats are fed. Stretch meow to be let out. Claws in your leg cats go for world domination i cry and cry and cry unless you pet me, and then maybe i cry just for fun for wake up human for food at 4am for rub face on everything, yet meow. Stares at human while pushing stuff off a table.
+							</div>
+					</div>
+				</div>
+			</div><!-- close container-fluid -->
+
+
 		</main>
-		<footer></footer>
+		</div>
+		<footer>
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-sm-6" class="small">
+						This is the footer
+					</div>
+					<div class="col-sm-6" class="small">Link1 | Link2</div>
+				</div>
+			</div>
+		</footer>
 	</body>
 
 
