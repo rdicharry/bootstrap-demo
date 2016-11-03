@@ -47,7 +47,21 @@
 		</header>
 
 		<!-- main content section -->
-		<main></main>
+		<main>
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="jumbotron">
+							<h1>Welcome! :D</h1>
+							<p>
+								ase the red dot, hairball run catnip eat the grass sniff for walk on car leaving trail of paw prints on hood and windshield. Claws in your leg eat grass, throw it back up and caticus cuteicus under t
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="row"></div>
+			</div>
+		</main>
 		<footer></footer>
 	</body>
 
