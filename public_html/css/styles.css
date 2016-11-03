@@ -1,1 +1,12 @@
+/* attribute selector select all divs that have a class attribute with the specificed text*/
+div[class*="col-"] {
+	border: 2px;
+	border-color: black;
+	background-color: pink;
+	padding: 10px;
 
+}
+
+.container {
+
+}
